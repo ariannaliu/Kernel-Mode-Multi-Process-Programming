@@ -1,5 +1,3 @@
-This is the readme of Assignment_1
-
 CONTENTS:
 	1.PROGRAM1
 	2.PROGRAM2
